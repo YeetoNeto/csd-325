@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../CityFunctions/CityFunctions/CityFunctions.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="4738d964-aae2-4359-8853-e34144dfdb9d">
+    <Build Project="false" />
+  </Project>
+  <Project Path="test_cities/test_cities.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="dc834426-6015-4942-8b4b-f43ecc17bbf8">
+    <Build Project="false" />
+  </Project>
+</Solution>
